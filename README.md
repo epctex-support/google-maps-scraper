@@ -1,4 +1,4 @@
-[https://apify.com/epctex/google-maps-scraper?fpr=yhdrb](https://apify.com/epctex/google-maps-scraper?fpr=yhdrb)
+[https://apify.com/epctex/google-maps-scraper](https://apify.com/epctex/google-maps-scraper?fpr=yhdrb)
 
 # Actor - Google Maps Scraper
 
